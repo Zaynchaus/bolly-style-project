@@ -1,0 +1,137 @@
+/* body{
+background-color: #ffffff !important ;
+} */
+
+li {
+    text-decoration: none;
+    margin-right: 3rem;
+    
+    display: flex;
+    margin-top: 20px;
+    color: black;   
+
+}
+
+
+.hading {
+    display: flex;
+    
+      color: silver;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%); */
+    
+
+}
+
+
+nav {
+    display: flex;
+    margin-bottom: -5px;
+    border: 4px solid #ffffff;
+    background-color: #f8e7d2;
+}
+
+span {
+    color: red;
+}
+
+.img {
+    background-image: url(hdbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100% ;
+    height: 100vh;
+    border-radius: 0px;
+    position: relative;
+    margin-bottom: -20%;
+    margin-top: -0px;
+    
+}
+
+.imgtext {
+    color: #ffffff;
+    position: relative;
+    top: 15%;
+    left: 8%;
+    font-size: 25px;
+    /* color: #00ff00; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span {
+    color: red;
+}
+
+
+.Navbtn button {
+
+    margin: 12px;
+    background: rgb(230, 214, 241);
+    background: linear-gradient(90deg, rgb(238, 225, 246) 0%, rgba(226, 234, 243, 0.468) 50%);
+    color: #120f0f;
+    
+
+}
+
+.Navbtn {
+    /* position: absolute; */
+    left: 75%;
+    margin-top: 10px;
+    margin-left: 25%;
+
+}
+
+/* .Linkbtn{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 30px;   
+}
+
+.Linkbtn2{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 30px; 
+}
+
+.Linkbtn:hover{
+    background-color: lightblue;
+    border-radius: 2rem;
+    box-shadow: 5px 10px 18px 5px blue;
+}
+
+.Linkbtn2:hover{
+    background-color: lightblue;
+    border-radius: 2rem;
+    box-shadow: 5px 10px 18px 5px blue;
+}
+
+
+
+.homebtn{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 30px;
+}
+
+.productbtn{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 30px;   
+}
+
+.homebtn:hover{
+    background-color: lightblue;
+    border-radius: 2rem;
+    box-shadow: 5px 10px 18px 5px blue;
+}
+
+.productbtn:hover{
+    background-color: lightblue;
+    border-radius: 2rem;
+    box-shadow: 5px 10px 18px 5px blue;
+} */
+
+.TEXT{
+    margin-left: 12px;
+}

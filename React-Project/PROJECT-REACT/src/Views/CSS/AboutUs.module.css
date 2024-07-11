@@ -1,0 +1,51 @@
+.img {
+    background-image: url(pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200vh;
+    border-radius: 0px;
+    position: relative;
+    bottom: 3rem;
+    margin-top: 50px;
+    color: #f0eded;
+    padding: 50px;
+}
+
+.imgtext {
+    position: relative;
+    top: 50px;
+    left: 8%;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    position: fixed;
+    width: 50%;
+
+}
+
+.mainText{
+    text-align: center;
+    color: black;
+    border: 2px solid white;
+    background-color: #ffffff;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20%;
+    box-shadow: 5px 5px 5px 5px black;
+     
+    
+
+}
+
+.h1{
+    margin-right: 70%;
+}
+
+.web{
+    display: flex;
+    
+    /* margin-left: 20%;
+    margin-top: 50px; */
+    justify-content: space-around;
+}

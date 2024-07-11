@@ -1,0 +1,69 @@
+.category{
+    margin-left: 20%;
+    margin-top: 100px;
+    font-size:xx-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.image{
+     margin-left: 10%;
+     margin-bottom: 50%;
+     columns: 6;
+     math-depth: 6;
+     height: 500px;
+     width: 500px;
+
+}
+.Title{
+    margin-left: 20%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rating{
+    margin-left: 20%;
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.price{
+    margin-left: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.description{
+    justify-content: center;
+    margin-left:  20%;
+    
+    
+    
+
+}
+.btn1{
+    text-align: center;
+    justify-content: center;
+    /* margin-left: 38%;
+    margin-bottom: 25%; */
+    background-color: #242121;
+    border-color:  black;
+    color: whitesmoke;
+    margin-left: 20;
+
+}
+.btn2{
+    margin-bottom: 20%; 
+    background-color: #242121;
+    border-color:  black;
+    color: whitesmoke;
+    margin-left: 38%;
+    margin-bottom: 25%;
+
+} 
+.PNGs{
+    display: flex;
+    /* margin-top: -3%; */
+}
+.All{
+    display: flex;
+    font-size:x-large;
+}
+
+
+
+

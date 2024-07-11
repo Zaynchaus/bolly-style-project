@@ -1,0 +1,43 @@
+ /* body{
+    background-color:red;
+}  */
+
+.h1{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    margin-top: 12%;
+    border: 2px solid black;
+    height: 25%;
+    width: 30vh;
+    margin-left: 45%;
+    box-shadow: 5px 10px 18px black;
+}
+/* .h1{
+     text-align: center;
+    color: white;
+    height: 100vh;
+    position: relative; 
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+     /* margin-bottom: 10%;  */
+     
+
+
+.btn{
+    margin-right: 30px;
+    margin-left: 15px;
+    /* margin-top: 25%;                 */
+    border: none;
+    border-radius: 7px 7px 7px 7px;
+    background-color: lightblue;
+     margin-bottom:20% ; 
+    height: 25px;
+    width: 25vh;
+}
+.color{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgb(117, 31, 174) 0%, rgba(119,29,253,1) 50%, rgb(115, 72, 11) 100%);
+    padding: 155px;
+    /* position: fixed; */
+}

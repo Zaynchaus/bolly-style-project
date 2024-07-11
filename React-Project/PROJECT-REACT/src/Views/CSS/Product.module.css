@@ -1,0 +1,43 @@
+/* .btndiv{
+   display: flex;
+   justify-content: center;
+     justify-content: space-between;
+     margin-left: 35%;
+} */
+.carddiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* .carddiv2{
+    display: flex;
+    flex-wrap: wrap;
+    
+} */
+/* .card{ 
+    width: 20rem;
+    
+} */
+
+.Allbtn{
+   justify-content: center;
+   display: flex;
+   justify-content: space-evenly;
+   margin-left: 15em;   
+   margin-right: 15em;
+}
+/* .Allbtn:hover{
+    background-color: black;
+    color: white;
+} */
+.h1{
+    text-align: center;
+    color: brown;
+    font-style:oblique;
+}
+.hr{
+    color:brown;
+}
+.btn1:hover{
+    color: black;
+}
